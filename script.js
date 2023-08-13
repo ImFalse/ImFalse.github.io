@@ -25,7 +25,7 @@ $(document).ready(function(){
 
     // typing animation script
     var type = new Typed(".typing", {
-        strings: ["an UVA Undergraduate", "a Computer Science Major", "an Economics Major", "a Climber", "a Freelance Developer"],
+        strings: ["an UVA Undergraduate", "a Computer Science Major", "an Economics Major", "a Climber", "a Skateboarder"],
         typeSpeed: 100, 
         backSpeed: 60, 
         loop: true

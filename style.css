@@ -276,7 +276,7 @@ section .title::after{
 /* skills section styling */
 
 .skills .title::after{
-    content: "what i know";
+    content: "what i learned";
 }
 .skills .skills-content .column{
     width: calc(50% - 30px);
@@ -300,6 +300,10 @@ section .title::after{
     border-radius: 6px;
     border: 2px solid navy;
     transition: all 0.3s ease;
+}
+.experience-para {
+    text-indent: 2em; /* This will create the desired indentation at the start of each paragraph */
+    margin-bottom: 1em; /* This will add spacing between the paragraphs */
 }
 .skills .skills-content .left a:hover{
     color: navy;
@@ -350,6 +354,8 @@ section .title::after{
 .skills-content .right .reactjs::before{
     width: 65%;
 }
+
+
 
 /* teams section styling */
 .teams .title::after{
