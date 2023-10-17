@@ -95,10 +95,10 @@ html{
 /* home section styling */
 .home{
     display: flex;
-    background: url("Suit\ Picture.jpg") no-repeat center;
+    background: url("prof\ wide\ angle\ resized.JPEG") no-repeat center;
     background-size: cover;
     height: 100vh;
-    color: #fff;
+    color: #000000;
     min-height: 500px;
     font-family: 'Ubuntu', sans-serif;
 }
@@ -118,7 +118,7 @@ html{
     margin: 5px 0;
 }
 .home .home-content .text-3 span{
-    color: navy;
+    color: orange;
     font-weight: 500;
 }
 .home .home-content a{
